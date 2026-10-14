@@ -1,0 +1,448 @@
+{
+  "trailingSlash": "never",
+  "routes": [
+    {
+      "route": "/plumbing",
+      "redirect": "/trades/plumbing",
+      "statusCode": 301
+    },
+    {
+      "route": "/electrical",
+      "redirect": "/trades/electrical",
+      "statusCode": 301
+    },
+    {
+      "route": "/cleaning",
+      "redirect": "/trades/cleaning",
+      "statusCode": 301
+    },
+    {
+      "route": "/painters",
+      "redirect": "/trades/painting",
+      "statusCode": 301
+    },
+    {
+      "route": "/about.html",
+      "redirect": "/about",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/category/estimating.html",
+      "redirect": "/blog/category/estimating",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/category/getting-paid.html",
+      "redirect": "/blog/category/getting-paid",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/category/running-the-business.html",
+      "redirect": "/blog/category/running-the-business",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/category/trade-guides.html",
+      "redirect": "/blog/category/trade-guides",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/how-to-get-paid-faster-without-chasing-customers.html",
+      "redirect": "/blog/how-to-get-paid-faster-without-chasing-customers",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/how-to-price-a-plumbing-service-call.html",
+      "redirect": "/blog/how-to-price-a-plumbing-service-call",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog/how-to-write-an-estimate-that-gets-approved.html",
+      "redirect": "/blog/how-to-write-an-estimate-that-gets-approved",
+      "statusCode": 301
+    },
+    {
+      "route": "/blog.html",
+      "redirect": "/blog",
+      "statusCode": 301
+    },
+    {
+      "route": "/compare/housecall-pro.html",
+      "redirect": "/compare/housecall-pro",
+      "statusCode": 301
+    },
+    {
+      "route": "/compare/jobber.html",
+      "redirect": "/compare/jobber",
+      "statusCode": 301
+    },
+    {
+      "route": "/compare/servicetitan.html",
+      "redirect": "/compare/servicetitan",
+      "statusCode": 301
+    },
+    {
+      "route": "/compare/workiz.html",
+      "redirect": "/compare/workiz",
+      "statusCode": 301
+    },
+    {
+      "route": "/compare.html",
+      "redirect": "/compare",
+      "statusCode": 301
+    },
+    {
+      "route": "/contact.html",
+      "redirect": "/contact",
+      "statusCode": 301
+    },
+    {
+      "route": "/customers/placeholder-cleaning-company.html",
+      "redirect": "/customers/placeholder-cleaning-company",
+      "statusCode": 301
+    },
+    {
+      "route": "/customers/placeholder-plumbing-shop.html",
+      "redirect": "/customers/placeholder-plumbing-shop",
+      "statusCode": 301
+    },
+    {
+      "route": "/customers.html",
+      "redirect": "/customers",
+      "statusCode": 301
+    },
+    {
+      "route": "/features/estimates.html",
+      "redirect": "/features/estimates",
+      "statusCode": 301
+    },
+    {
+      "route": "/features/invoices.html",
+      "redirect": "/features/invoices",
+      "statusCode": 301
+    },
+    {
+      "route": "/features/payments.html",
+      "redirect": "/features/payments",
+      "statusCode": 301
+    },
+    {
+      "route": "/help.html",
+      "redirect": "/help",
+      "statusCode": 301
+    },
+    {
+      "route": "/pricing.html",
+      "redirect": "/pricing",
+      "statusCode": 301
+    },
+    {
+      "route": "/print/estimate-template.html",
+      "redirect": "/print/estimate-template",
+      "statusCode": 301
+    },
+    {
+      "route": "/print/invoice-template.html",
+      "redirect": "/print/invoice-template",
+      "statusCode": 301
+    },
+    {
+      "route": "/privacy.html",
+      "redirect": "/privacy",
+      "statusCode": 301
+    },
+    {
+      "route": "/product.html",
+      "redirect": "/product",
+      "statusCode": 301
+    },
+    {
+      "route": "/security.html",
+      "redirect": "/security",
+      "statusCode": 301
+    },
+    {
+      "route": "/switching.html",
+      "redirect": "/switching",
+      "statusCode": 301
+    },
+    {
+      "route": "/terms.html",
+      "redirect": "/terms",
+      "statusCode": 301
+    },
+    {
+      "route": "/tools/estimate-template.html",
+      "redirect": "/tools/estimate-template",
+      "statusCode": 301
+    },
+    {
+      "route": "/tools/invoice-template.html",
+      "redirect": "/tools/invoice-template",
+      "statusCode": 301
+    },
+    {
+      "route": "/tools/markup-calculator.html",
+      "redirect": "/tools/markup-calculator",
+      "statusCode": 301
+    },
+    {
+      "route": "/tools.html",
+      "redirect": "/tools",
+      "statusCode": 301
+    },
+    {
+      "route": "/trades/cleaning.html",
+      "redirect": "/trades/cleaning",
+      "statusCode": 301
+    },
+    {
+      "route": "/trades/electrical.html",
+      "redirect": "/trades/electrical",
+      "statusCode": 301
+    },
+    {
+      "route": "/trades/handyman.html",
+      "redirect": "/trades/handyman",
+      "statusCode": 301
+    },
+    {
+      "route": "/trades/hvac.html",
+      "redirect": "/trades/hvac",
+      "statusCode": 301
+    },
+    {
+      "route": "/trades/landscaping.html",
+      "redirect": "/trades/landscaping",
+      "statusCode": 301
+    },
+    {
+      "route": "/trades/painting.html",
+      "redirect": "/trades/painting",
+      "statusCode": 301
+    },
+    {
+      "route": "/trades/plumbing.html",
+      "redirect": "/trades/plumbing",
+      "statusCode": 301
+    },
+    {
+      "route": "/trades/remodeling.html",
+      "redirect": "/trades/remodeling",
+      "statusCode": 301
+    },
+    {
+      "route": "/trades/roofing.html",
+      "redirect": "/trades/roofing",
+      "statusCode": 301
+    },
+    {
+      "route": "/trades.html",
+      "redirect": "/trades",
+      "statusCode": 301
+    },
+    {
+      "route": "/about",
+      "rewrite": "/about.html"
+    },
+    {
+      "route": "/blog/category/estimating",
+      "rewrite": "/blog/category/estimating.html"
+    },
+    {
+      "route": "/blog/category/getting-paid",
+      "rewrite": "/blog/category/getting-paid.html"
+    },
+    {
+      "route": "/blog/category/running-the-business",
+      "rewrite": "/blog/category/running-the-business.html"
+    },
+    {
+      "route": "/blog/category/trade-guides",
+      "rewrite": "/blog/category/trade-guides.html"
+    },
+    {
+      "route": "/blog/how-to-get-paid-faster-without-chasing-customers",
+      "rewrite": "/blog/how-to-get-paid-faster-without-chasing-customers.html"
+    },
+    {
+      "route": "/blog/how-to-price-a-plumbing-service-call",
+      "rewrite": "/blog/how-to-price-a-plumbing-service-call.html"
+    },
+    {
+      "route": "/blog/how-to-write-an-estimate-that-gets-approved",
+      "rewrite": "/blog/how-to-write-an-estimate-that-gets-approved.html"
+    },
+    {
+      "route": "/blog",
+      "rewrite": "/blog.html"
+    },
+    {
+      "route": "/compare/housecall-pro",
+      "rewrite": "/compare/housecall-pro.html"
+    },
+    {
+      "route": "/compare/jobber",
+      "rewrite": "/compare/jobber.html"
+    },
+    {
+      "route": "/compare/servicetitan",
+      "rewrite": "/compare/servicetitan.html"
+    },
+    {
+      "route": "/compare/workiz",
+      "rewrite": "/compare/workiz.html"
+    },
+    {
+      "route": "/compare",
+      "rewrite": "/compare.html"
+    },
+    {
+      "route": "/contact",
+      "rewrite": "/contact.html"
+    },
+    {
+      "route": "/customers/placeholder-cleaning-company",
+      "rewrite": "/customers/placeholder-cleaning-company.html"
+    },
+    {
+      "route": "/customers/placeholder-plumbing-shop",
+      "rewrite": "/customers/placeholder-plumbing-shop.html"
+    },
+    {
+      "route": "/customers",
+      "rewrite": "/customers.html"
+    },
+    {
+      "route": "/features/estimates",
+      "rewrite": "/features/estimates.html"
+    },
+    {
+      "route": "/features/invoices",
+      "rewrite": "/features/invoices.html"
+    },
+    {
+      "route": "/features/payments",
+      "rewrite": "/features/payments.html"
+    },
+    {
+      "route": "/help",
+      "rewrite": "/help.html"
+    },
+    {
+      "route": "/pricing",
+      "rewrite": "/pricing.html"
+    },
+    {
+      "route": "/print/estimate-template",
+      "rewrite": "/print/estimate-template.html"
+    },
+    {
+      "route": "/print/invoice-template",
+      "rewrite": "/print/invoice-template.html"
+    },
+    {
+      "route": "/privacy",
+      "rewrite": "/privacy.html"
+    },
+    {
+      "route": "/product",
+      "rewrite": "/product.html"
+    },
+    {
+      "route": "/security",
+      "rewrite": "/security.html"
+    },
+    {
+      "route": "/switching",
+      "rewrite": "/switching.html"
+    },
+    {
+      "route": "/terms",
+      "rewrite": "/terms.html"
+    },
+    {
+      "route": "/tools/estimate-template",
+      "rewrite": "/tools/estimate-template.html"
+    },
+    {
+      "route": "/tools/invoice-template",
+      "rewrite": "/tools/invoice-template.html"
+    },
+    {
+      "route": "/tools/markup-calculator",
+      "rewrite": "/tools/markup-calculator.html"
+    },
+    {
+      "route": "/tools",
+      "rewrite": "/tools.html"
+    },
+    {
+      "route": "/trades/cleaning",
+      "rewrite": "/trades/cleaning.html"
+    },
+    {
+      "route": "/trades/electrical",
+      "rewrite": "/trades/electrical.html"
+    },
+    {
+      "route": "/trades/handyman",
+      "rewrite": "/trades/handyman.html"
+    },
+    {
+      "route": "/trades/hvac",
+      "rewrite": "/trades/hvac.html"
+    },
+    {
+      "route": "/trades/landscaping",
+      "rewrite": "/trades/landscaping.html"
+    },
+    {
+      "route": "/trades/painting",
+      "rewrite": "/trades/painting.html"
+    },
+    {
+      "route": "/trades/plumbing",
+      "rewrite": "/trades/plumbing.html"
+    },
+    {
+      "route": "/trades/remodeling",
+      "rewrite": "/trades/remodeling.html"
+    },
+    {
+      "route": "/trades/roofing",
+      "rewrite": "/trades/roofing.html"
+    },
+    {
+      "route": "/trades",
+      "rewrite": "/trades.html"
+    },
+    {
+      "route": "/_astro/*",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable"
+      }
+    },
+    {
+      "route": "/fonts/*",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable"
+      }
+    }
+  ],
+  "responseOverrides": {
+    "404": {
+      "rewrite": "/404.html",
+      "statusCode": 404
+    }
+  },
+  "globalHeaders": {
+    "X-Content-Type-Options": "nosniff",
+    "Referrer-Policy": "strict-origin-when-cross-origin",
+    "X-Frame-Options": "SAMEORIGIN",
+    "Permissions-Policy": "camera=(), microphone=(), geolocation=()"
+  },
+  "mimeTypes": {
+    ".woff2": "font/woff2"
+  }
+}
